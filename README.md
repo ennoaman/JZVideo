@@ -1,25 +1,3 @@
-<a href="https://github.com/Jzvd/JiaoZiVideoPlayer" target="_blank"><p align="center"><img src="https://user-images.githubusercontent.com/2038071/ 42033014-0bf1c0b0-7b0e-11e8-811d-7639bcd294eb.png" alt="JiaoZiVideoPlayer" height="150px"></p></a>
--
-<p align="center">
-<a href="http://developer.android.com/index.html"><img src="https://img.shields.io/badge/platform-android-green.svg"></a>
-<a href="http://search.maven.org/#artifactdetails%7Ccn.jzvd%7Cjiaozivideoplayer%7C7.4.2%7Caar"><img src="https://img.shields.io/badge/Maven% 20Central-7.4.2-green.svg"></a>
-<a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
-<a href="https://android-arsenal.com/details/1/3269"><img src="https://img.shields.io/badge/Android%20Arsenal-jiaozivideoplayer-green.svg?style =true"></a>
-</p>
-
-Highly customizable Android video framework
-
-## Pinned message:
-
-The group owner WeChat entered the dumpling fan group, and the focus of communication shifted from the Q group to the WeChat group. WeChat: lipangit note JZVD, Q group: 490442439, 2 group: 761899104, verification information: jzvd, WeChat public account: jzvdjzt, QQ: 1066666651, [Telegram](https://t.me/jiaozitoken), [Weibo]( http://weibo.com/2342820395/profile?topnav=1&wvr=6&is_all=1), [public number article](https://github.com/Jzvd/JiaoZiVideoPlayer/wiki/%E5%85%AC%E4% BC%97%E5%8F%B7%E6%96%87%E7%AB%A0)
-
-
-
-In order to increase the quality of the project, promote the progress of the project, invoke the power of the community, and facilitate community management, a digital token based on Ethereum ERC-20 [JiaoZiToken(JZT)(餃子Token)](https://github.com/JZVD) /JZT), there must be a lot to do.
-
-#### [Find something to do to earn dumpling coins](https://github.com/Jzvd/JiaoZiVideoPlayer/wiki/%E6%89%BE%E7%82%B9%E4%BA%8B%E5%81 %9A%EF%BC%8C%E6%8C%A3%E7%82%B9%E9%A5%BA%E5%AD%90%E5%B8%81)
-
-#### [Purchase consulting service to get dumpling coins](https://github.com/Jzvd/JiaoZiVideoPlayer/wiki/%E8%B4%AD%E4%B9%B0%E5%92%A8%E8%AF% A2%E6%9C%8D%E5%8A%A1%E9%80%81%E9%A5%BA%E5%AD%90%E5%B8%81)
 
 ## Documentation
 
